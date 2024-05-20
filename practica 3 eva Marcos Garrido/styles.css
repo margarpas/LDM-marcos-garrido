@@ -1,0 +1,35 @@
+body {
+    background-image: url("coches.jpg");
+
+}
+
+
+header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 80px;
+}
+
+p {
+    font-size: 16px;
+    margin: 20px;
+    text-align: center;
+    background-color:lightblue;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 20px 40px;
+    cursor: pointer;
+    
+    
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+
